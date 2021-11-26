@@ -1,0 +1,46 @@
+[*.png]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# GRAFFLE (OmniGraffle sketch) file
+[*.graffle]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# TDPL (Top Down Parsing Language) file
+[*.tdpl]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# Other/unknown
+[*.am *.gh *.ap *.ah *.aam *.af *.goc *.ah *.alx *.glx *.sty *.nls *.nlo *.lot *.lof *.loe *.ind *.ilg *.ilx *.brf *.glo *.plo *.lo *.o *.la *.lai *.gprules *.ul]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+line_wrap_mode = soft wrap
+
+# File info
+
+# File type: Editorconfig file (*.editorconfig)
+# File version: 1 (Thursday, 2021 November 25th at 8:25 pm)
+# Line count (including blank lines and compiler line): 353
+
+# End of script
