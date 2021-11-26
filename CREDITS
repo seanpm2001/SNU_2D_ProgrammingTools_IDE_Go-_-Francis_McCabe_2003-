@@ -1,0 +1,22 @@
+
+---
+
+{{int:version-credits-summary}}
+This SNU (2D) Programming Tools IDE project by Seanpm2001 is a collaborative project released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of this project
+2. No other contributors as of Thursday, 2021 November 25th
+
+== Contributors ==
+<!-- BEGIN CONTRIBUTOR LIST -->
+1. @seanpm2001
+2. @GitHub (For being the first host of this project)
+3. @fgmccabe (Francis McCabe, https://github.com/fgmccabe) for creating the programming language this project represents, and for providing the compiler
+4. No other contributors as of Thursday, 2021 November 25th
+
+---
